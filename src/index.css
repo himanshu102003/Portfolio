@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Add this custom style to position the toggle switch dot */
+.dot {
+  transition: transform 0.2s ease-in-out;
+}
