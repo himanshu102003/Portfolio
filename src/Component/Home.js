@@ -2,14 +2,15 @@ import React from "react";
 
 import abcd from "../assets/abcd.png";
 
+
 function Home(){
     return(
         <>
         <div className="justify-between flex">
-            <h4 className="text-orange-400 text-3xl ml-28 mt-28 hover:text-5xl">Full-Stack 
+            <h4 className="text-gray-300 text-3xl ml-28 mt-28">Full-Stack 
                 Web Developer
-            <h1 className="text-white text-6xl ">Himanshu</h1>
-            <h1 className="text-green-600 text-6xl">Gupta</h1>
+            <h1 className="text-gray-400 text-6xl ">Himanshu</h1>
+            <h1 className="text-gray-500 text-6xl">Gupta</h1>
             </h4>
             
        
